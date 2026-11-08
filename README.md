@@ -8,8 +8,7 @@
 
 | Файл | Содержание |
 | --- | --- |
-| [abortion_research_data.csv.gz](abortion_research_data.csv.gz) | Расширенная рабочая версия: **51 столбец**. Её сейчас читает `data_check.ipynb`. |
-| [data_prep/abortion_research_data.csv.gz](data_prep/abortion_research_data.csv.gz) | Новая сокращённая версия: **19 столбцов**, отобранных в конце подготовки. |
+| [abortion_research_data.csv.gz](data_prep/abortion_research_data.csv.gz) | Новая сокращённая версия: **19 столбцов**, отобранных в конце подготовки. |
 | [abortion_research_data_info.md](abortion_research_data_info.md) | Определения переменных, кодировки и порядок сборки обеих версий. |
 | [data_check.ipynb](data_check.ipynb) | Проверки панели, графики дохода женщин и код карты ограничений на последний месяц. |
 | [data_prep/data_prep.ipynb](data_prep/data_prep.ipynb) | Отбор полей, добавление ограничений, переименования и сохранение сокращённого CSV. |
